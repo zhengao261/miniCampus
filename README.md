@@ -1,6 +1,6 @@
-# iView-project
+# MiniLifeStyle-project
 
-This project is build for Vue.js 2 + vue-router + webpack2 + iView 2, just install and run.
+This project is build for Vue.js 2.X + vue-router + webpack3 + iView 2.x, just install and run.
 
 ## Install
 ```bush
