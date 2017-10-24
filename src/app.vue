@@ -1,4 +1,3 @@
-
 <template>
     <div>
         <router-view></router-view>
@@ -7,7 +6,9 @@
 <script>
     export default {
         data () {
-            return {}
+            return {
+
+            }
         },
         mounted () {
 
